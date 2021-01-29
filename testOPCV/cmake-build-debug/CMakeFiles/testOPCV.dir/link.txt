@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\testOPCV.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\testOPCV.dir/objects.a @CMakeFiles\testOPCV.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -std=c++11 -g   -Wl,--whole-archive CMakeFiles\testOPCV.dir/objects.a -Wl,--no-whole-archive  -o testOPCV.exe -Wl,--out-implib,libtestOPCV.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testOPCV.dir\linklibs.rsp
