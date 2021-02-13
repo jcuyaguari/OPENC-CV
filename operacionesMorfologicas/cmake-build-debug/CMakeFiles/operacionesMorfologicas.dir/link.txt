@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\operacionesMorfologicas.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\operacionesMorfologicas.dir/objects.a @CMakeFiles\operacionesMorfologicas.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -std=c++11 -g   -Wl,--whole-archive CMakeFiles\operacionesMorfologicas.dir/objects.a -Wl,--no-whole-archive  -o operacionesMorfologicas.exe -Wl,--out-implib,liboperacionesMorfologicas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\operacionesMorfologicas.dir\linklibs.rsp
