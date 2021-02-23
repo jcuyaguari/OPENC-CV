@@ -1,0 +1,29 @@
+Universidad Politécnica Salesiana
+Carrera de Ingeniería de Sistemas
+Evaluación de cálculo de Perceptron Simple Monocapa
+author:@vlarobbyk 
+
+Estudiante: [JORGE_RENE_AREVALO_PANI]
+
+*************************************************
+Instrucciones:
+
+Realice el cálculo de ajuste de lo pesos a fin de que el perceptron monocapa simple pueda asociar las entradas datas (X) a las salidas deseadas (d).
+Debe generar la gráfica inicial y la gráfica final.
+
+*************************************************
+Datos Iniciales:
+
+*************************************************
+Entradas:
+X = [[-5.18288681 -0.88993231], [2.49849554 1.83849963], [5.09674386 3.30298431], [2.61326806 3.60152645]]
+
+Pesos:
+W = [0.4850923362542836, 0.41511890150408415]
+
+Salidas deseadas: 
+ d = [1.0, 0.0, 0.0, 1.0]
+
+Alfa: 0.7
+
+Theta = 0.463000371162575
