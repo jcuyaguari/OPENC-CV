@@ -1,5 +1,5 @@
 # OpenCV
-These projects use opencv 4.5.1 and are developed with c ++
+These projects use opencv 4.5.1 and are developed with c ++ & CLion
 
 ```C++
 cmake_minimum_required(VERSION 3.17)
@@ -21,3 +21,10 @@ set(OpenCV_LIBS opencv_core opencv_imgproc opencv_highgui opencv_imgcodecs)
 # linking
 target_link_libraries(examen ${OpenCV_LIBS})
 ```
+
+```Js
+https://stackoverflow.com/questions/35984678/use-opencv-with-clion-ide-on-windows
+```
+
+
+
