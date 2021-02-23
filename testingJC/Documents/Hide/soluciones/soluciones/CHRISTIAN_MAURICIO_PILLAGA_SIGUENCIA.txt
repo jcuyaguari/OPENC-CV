@@ -1,0 +1,44 @@
+Universidad Politécnica Salesiana
+Carrera de Ingeniería de Sistemas
+Evaluación de cálculo de Perceptron Simple Monocapa
+author:@vlarobbyk 
+
+Estudiante: [CHRISTIAN_MAURICIO_PILLAGA_SIGUENCIA]
+
+*************************************************
+Instrucciones:
+
+Realice el cálculo de ajuste de lo pesos a fin de que el perceptron monocapa simple pueda asociar las entradas datas (X) a las salidas deseadas (d).
+Debe generar la gráfica inicial y la gráfica final.
+
+*************************************************
+Datos Iniciales:
+
+*************************************************
+Entradas:
+X = [[-3.18567225  1.58478084], [-1.81275626  2.68842611], [-2.59990733  1.90585564], [ 5.13850303 -1.72415782]]
+Pesos:
+W = [-0.30202364854080227, 0.6787671912089179]
+
+Salidas deseadas: 
+ d = [0.0, 1.0, 0.0, 1.0]
+
+Alfa: 0.7
+
+Theta = -0.6788959058753146
+
+Solución:
+Pesos originales (t):
+[-0.30202364854080227,0.6787671912089179]  Theta = -0.6788959058753146
+Error: -1.0 Actualizacion (t+1):
+[1.927946923125717,-0.4305793959784068]  Theta = -1.3788959058753145
+Error: 1.0 Actualizacion (t+2):
+[0.659017538541586,1.4513188793128338]  Theta = -0.6788959058753146
+Error: -1.0 Actualizacion (t+3):
+[2.478952672940625,0.11721993327775193]  Theta = -1.3788959058753145
+Error: 1.0 Actualizacion (t+4):
+[1.210023288356494,1.9991182085689925]  Theta = -0.6788959058753146
+
+Pesos Finales:
+W = [1.210023288356494, 1.9991182085689925
+Theta Final= -0.6788959058753146
