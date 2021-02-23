@@ -26,5 +26,8 @@ target_link_libraries(examen ${OpenCV_LIBS})
 https://stackoverflow.com/questions/35984678/use-opencv-with-clion-ide-on-windows
 ```
 
+```Js
+[Link Instalacion](https://stackoverflow.com/questions/35984678/use-opencv-with-clion-ide-on-windows)
+```
 
 
